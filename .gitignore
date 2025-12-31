@@ -1,0 +1,10 @@
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+/.hugo_build.lock
+
+# Ignore node modules if using npm or yarn
+/node_modules/
