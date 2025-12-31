@@ -9,7 +9,6 @@ enableRobotsTXT = true # IMPORTANT: set to true if you want to use the theme's g
     path = "github.com/michenriksen/hugo-theme-til"
 
 [outputs]
-  about = ['html']
   home = ['html']
   section = ['html', 'rss', 'json']
   page = ['html']
@@ -18,19 +17,19 @@ enableRobotsTXT = true # IMPORTANT: set to true if you want to use the theme's g
   [[menus.about]]
     name = 'About'
     pageRef = '/about'
-    weight = 10
+    weight = 20
   [[menus.main]]
     name = 'Notes'
     pageRef = '/notes'
-    weight = 20
+    weight = 30
   [[menus.main]]
     name = 'Posts'
     pageRef = '/posts'
-    weight = 30
+    weight = 40
   [[menus.main]]
     name = 'Graph'
     pageRef = '/graph'
-    weight = 40
+    weight = 50
 
 [markup]
   [markup.highlight]
