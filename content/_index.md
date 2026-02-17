@@ -8,4 +8,4 @@ Welcome to Codects, a collection of technical notes and articles researched and 
 
 ## About Me
 
-I'm a first-year student at George Mason University studying computer science, computer engineering, and mathematics. Outside of academics, I debate for the George Mason Debate Team, where I  compete in policy debate tournaments across the country.
+I'm a first-year student at George Mason University studying computer science, computer engineering, and mathematics. I'm a graduate of Thomas Jefferson High School for Science and Technology (TJHSST), a prestigous high school just outside of Washington, DC, where I partook in courses related to AI, computer vision, and computer systems research. Outside of academics, I debate for the George Mason Debate Team, where I  compete in policy debate tournaments across the country.
