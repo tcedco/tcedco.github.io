@@ -1,5 +1,9 @@
 {
   "dependencies": {
+    "@tailwindcss/postcss": "^4.2.1",
+    "autoprefixer": "^10.4.27",
+    "postcss-cli": "^11.0.1",
+    "tailwindcss": "^4.2.1",
     "vis-network": "^10.0.2"
   }
 }
